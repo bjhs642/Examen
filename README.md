@@ -7,7 +7,7 @@
 <p>El objetivo del presente instrumento evaluativo, busca medir los conocimientos adquiridos
 durante el transcurso del semestre.<br>
 
-##Ejecuccion
+## Ejecuccion
 <p>Para ejecutar el programa se  dirige a traves de su simbolo de sistemas<br>
 <p>Se dirigue a la direccion: "Examen\bin\Debug"<br>
 <p>Aqui ingresa examenfinal y con un espacio la fecha que desea saber cuantos accidentes habran<br>
