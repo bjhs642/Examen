@@ -7,8 +7,15 @@
 <p>El objetivo del presente instrumento evaluativo, busca medir los conocimientos adquiridos
 durante el transcurso del semestre.<br>
 
-## RECOMENDACIONES
+##Ejecuccion
+<p>Para ejecutar el programa se  dirige a traves de su simbolo de sistemas<br>
+<p>Se dirigue a la direccion: "Examen\bin\Debug"<br>
+<p>Aqui ingresa examenfinal y con un espacio la fecha que desea saber cuantos accidentes habran<br>
+<p>Ejemplo de ejecucion<br>
 
+![Captura de pantalla 2022-12-19 173825](https://user-images.githubusercontent.com/83669795/208517012-4878c00a-5bc0-4ff2-83e7-919e6b162da3.png)
+
+## RECOMENDACIONES
 <p>En el caso que el programa no sea reconocido y este utilizando codeblocks se realiza lo siguente<br>
 <p>Se accede a Sistema<br>
 <p>Configuracion avanzada del sistema<br>
