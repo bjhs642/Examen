@@ -21,4 +21,5 @@ durante el transcurso del semestre.<br>
 <p>El programa para que funcione correctamente el archivo .csv debe estar al lado del archivo.exe<br>
 <p>Como se muestra en la siguente imagen correspondiente<br>
 <p>Si desea utilizar otro archivo .csv debe ubicarlo en la siguente direccion: "Examen\bin\Debug"<br>
-![Ubicacion de los archivos](https://user-images.githubusercontent.com/83669795/208513630-0aeac7e9-f0ba-4bb7-90cd-268ceb53c4d3.png)
+![Captura de pantalla 2022-12-19 165821](https://user-images.githubusercontent.com/83669795/208515337-baf067a9-bfd8-47c1-bf66-c65e5ef97bb4.png)
+
