@@ -14,7 +14,7 @@ durante el transcurso del semestre.<br>
 <p>Configuracion avanzada del sistema<br>
 <p>Variables de entorno<br>
 <p>Busca donde dice Path<br>
-<p>agrega la direccion bin en este caso codeblocks<br>
+<p>Agrega la direccion bin en este caso codeblocks<br>
 ![Variables de entorno](https://user-images.githubusercontent.com/83669795/208512814-ebc22ad5-fe17-4993-baad-573f66b41970.png)
 <p>Nota: Esto puede servir en caso que se produzca un bloqueo  del archivo.exe<br>
 <br>
