@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1671479294 source:d:\lenguajec\examenfinal\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<cmath>
+	<omp.h>
+	<stdlib.h>
+	<algorithm>
+	<cstdio>
+	<chrono>
+
