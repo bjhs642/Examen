@@ -9,8 +9,8 @@ durante el transcurso del semestre.<br>
 
 ## Ejecuccion
 <p>Para ejecutar el programa se  dirige a traves de su simbolo de sistemas<br>
-<p>Se dirigue a la direccion: "Examen\bin\Debug"<br>
-<p>Aqui ingresa examenfinal y con un espacio la fecha que desea saber cuantos accidentes habran<br>
+<p>Tiene que entrar en la direccion de la carpeta debug que es "Examen\bin\Debug"<br>
+<p>Aqui ingresa "examenfinal" y con un espacio la fecha que desea saber cuantos accidentes habran<br>
 <p>Ejemplo de ejecucion<br>
 
 ![Captura de pantalla 2022-12-19 173825](https://user-images.githubusercontent.com/83669795/208517012-4878c00a-5bc0-4ff2-83e7-919e6b162da3.png)
